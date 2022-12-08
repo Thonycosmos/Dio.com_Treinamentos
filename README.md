@@ -1,2 +1,4 @@
 # Dio.com_Treinamentos
-Projetos de aulas
+Projetos  da Dio.com  entraga de trabalos
+##  Links úteis
+[Sintaxe basica Markdown](https://www.markdownguide.org/basic-syntax/)
