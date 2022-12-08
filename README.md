@@ -1,5 +1,5 @@
 # Dio.com_Treinamentos
-Projetos  da Dio.com  entraga de trabalhos
+Repositório para o  desafio de projetos
 
 ##  Links úteis
 [Sintaxe basica Markdown](https://www.markdownguide.org/basic-syntax/)
